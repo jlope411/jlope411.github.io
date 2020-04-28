@@ -1,0 +1,64 @@
+{
+  "version": "3.33.20697.0",
+  "scenes": [
+    {
+      "title": "Try Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6YZSAfQc09P",
+      "title": "Click ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "66p3gn6kdrR",
+      "title": "Click ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6AahwzQrnVi",
+      "title": "Click ",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5VjJxsHLMyc",
+      "title": "Click ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "61nGK2BkwbF",
+      "title": "Click ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6oIy4Av1x77",
+      "title": "Click ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6KcaBFROsFW",
+      "title": "Click ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "67hlzPOHBFg",
+      "title": "Click ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6lRPS7yTiZa",
+      "title": "Click ",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 518
+  },
+  "stage": {
+    "width": 720,
+    "height": 400
+  }
+}

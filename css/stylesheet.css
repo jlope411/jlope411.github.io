@@ -1,0 +1,65 @@
+@charset "UTF-8";
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+/* CSS Document */
+
+body{
+	background-color:#EEE;
+	font-family: 'open-sans', sans-serif;
+}
+
+h1{
+	font-size: 20px;
+	color: #18045D;
+	margin: 10px;
+	
+}
+p{
+	margin: 10px;
+}
+p.f{
+	margin: 10px;
+	word-spacing: 30px;
+}
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: #18045D;
+}
+
+table.center{
+	border-collapse: collapse;
+	font-size: 14px;
+	margin-left:auto;
+	margin-right:auto;
+	width: 90%;
+}
+
+tr.p{
+	text-align: center;
+	vertical-align: bottom;
+  	border-bottom: 1px solid black;
+}
+tr.m{
+	vertical-align: bottom;
+}
+#container{
+    background-color: white;
+    width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;	
+}
+#footer{
+    background-color: #18045D;
+    width: 800px; 
+	color: white;
+	text-align: center;
+}
+}
+#header{
+padding: 50px;
+}
+
+#content{
+	padding: 60px;
+}

@@ -1,0 +1,84 @@
+{
+  "version": "3.33.20697.0",
+  "scenes": [
+    {
+      "title": "Try Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6LAyVgLksAU",
+      "title": "Middle click ",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "675BYVcBliN",
+      "title": "Click ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "63p5CeuviS7",
+      "title": "Type Beagel Channel Catamaran to Sea Island",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5rSZq0oK5ar",
+      "title": "Click ",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5iomR1MOdXZ",
+      "title": "Click ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6db3SsPkDOv",
+      "title": "Click ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6akfbNmJgRG",
+      "title": "Click ",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5YG4ml8Ygnm",
+      "title": "Click ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "5e2pJswvJRf",
+      "title": "Click ",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "6NZeQh2YlP8",
+      "title": "Click ",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6YZSAfQc09P",
+      "title": "Click ",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "60ajhOkNKzg",
+      "title": "Click and drag",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "5WIcXHpZk3g",
+      "title": "Type .",
+      "scene_index": "1.13"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 518
+  },
+  "stage": {
+    "width": 720,
+    "height": 400
+  }
+}
