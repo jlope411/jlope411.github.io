@@ -20,6 +20,11 @@ p.f{
 	margin: 10px;
 	word-spacing: 30px;
 }
+p.c{
+	
+	text-align: center;
+}
+
 a{
 	text-decoration: none;
 	font-weight: bold;
@@ -41,6 +46,11 @@ tr.p{
 }
 tr.m{
 	vertical-align: bottom;
+}
+tr.t{
+	vertical-align: top;
+	text-align: center;
+	font-weight: bold;
 }
 #container{
     background-color: white;
